@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "5e1d99185b2f422662af836c85c510233c542664e39ae01747165cf483ebb95f"
+build_start_time: [1707746495, 766772000]
+build_end_time: [1707746495, 768338000]
+inputs:
+  ? "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1707746492, 431291106]
+  "/Users/debarunlahiri/XcodeProjects/Lambrk/Lambrk/ContentView.swift": !dirty [1707746488, 855188885]
+  "/Users/debarunlahiri/XcodeProjects/Lambrk/Lambrk/LambrkApp.swift": !dirty [1707746488, 851587265]

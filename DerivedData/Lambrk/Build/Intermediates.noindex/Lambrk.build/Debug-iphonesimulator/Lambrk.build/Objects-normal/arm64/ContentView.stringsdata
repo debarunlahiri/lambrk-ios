@@ -1,0 +1,64 @@
+{
+  "source": "/Users/debarunlahiri/XcodeProjects/Lambrk/Lambrk/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sign In"
+      },
+      {
+        "comment": "",
+        "key": "Username"
+      },
+      {
+        "comment": "",
+        "key": "Password"
+      },
+      {
+        "comment": "",
+        "key": "Please enter a username"
+      },
+      {
+        "comment": "",
+        "key": "Please enter password"
+      },
+      {
+        "comment": "",
+        "key": "Login"
+      },
+      {
+        "comment": "",
+        "key": "Login Information"
+      },
+      {
+        "comment": "",
+        "key": "Username: %@\nPassword: %@"
+      },
+      {
+        "comment": "",
+        "key": "Ok"
+      },
+      {
+        "comment": "",
+        "key": "Forgot Password"
+      },
+      {
+        "comment": "",
+        "key": "Don't have an account?"
+      },
+      {
+        "comment": "",
+        "key": "Sign UP"
+      },
+      {
+        "comment": "",
+        "key": "Sign Up"
+      },
+      {
+        "comment": "",
+        "key": "%lld*"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,64 @@
+{
+  "source": "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Previews/Lambrk/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld*"
+      },
+      {
+        "comment": "",
+        "key": "Sign In"
+      },
+      {
+        "comment": "",
+        "key": "Username"
+      },
+      {
+        "comment": "",
+        "key": "Password"
+      },
+      {
+        "comment": "",
+        "key": "Please enter a username"
+      },
+      {
+        "comment": "",
+        "key": "Please enter password"
+      },
+      {
+        "comment": "",
+        "key": "Login"
+      },
+      {
+        "comment": "",
+        "key": "Username: %@\nPassword: %@"
+      },
+      {
+        "comment": "",
+        "key": "Login Information"
+      },
+      {
+        "comment": "",
+        "key": "Ok"
+      },
+      {
+        "comment": "",
+        "key": "Forgot Password"
+      },
+      {
+        "comment": "",
+        "key": "Don't have an account?"
+      },
+      {
+        "comment": "",
+        "key": "Sign UP"
+      },
+      {
+        "comment": "",
+        "key": "Sign Up"
+      }
+    ]
+  },
+  "version": 1
+}

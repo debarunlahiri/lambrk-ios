@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "1fd942a8a67d3270ef525e0b44159eef3e50f90aa7053b5cdd0d870d7ea1ac0d"
+    }
+  ],
+  "containerPath" : "/Users/debarunlahiri/XcodeProjects/Lambrk/Lambrk.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Products",
+      "derivedDataPath" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "2CCB37C3-E2D7-45F9-A097-8147306CA3CC",
+          "TARGET_DEVICE_MODEL" : "iPhone15,4",
+          "TARGET_DEVICE_OS_VERSION" : "17.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

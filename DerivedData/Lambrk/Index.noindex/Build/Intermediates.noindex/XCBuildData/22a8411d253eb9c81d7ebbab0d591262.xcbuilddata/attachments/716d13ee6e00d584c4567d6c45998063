@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/Build/Intermediates.noindex/Lambrk.build/Debug-maccatalyst/LambrkUITests.build/Objects-normal/arm64/LambrkUITests-master.d",
+    "diagnostics" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/Build/Intermediates.noindex/Lambrk.build/Debug-maccatalyst/LambrkUITests.build/Objects-normal/arm64/LambrkUITests-master.dia",
+    "emit-module-dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/Build/Intermediates.noindex/Lambrk.build/Debug-maccatalyst/LambrkUITests.build/Objects-normal/arm64/LambrkUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/Build/Intermediates.noindex/Lambrk.build/Debug-maccatalyst/LambrkUITests.build/Objects-normal/arm64/LambrkUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/Build/Intermediates.noindex/Lambrk.build/Debug-maccatalyst/LambrkUITests.build/Objects-normal/arm64/LambrkUITests-master.swiftdeps"
+  },
+  "/Users/debarunlahiri/XcodeProjects/Lambrk/LambrkUITests/LambrkUITests.swift" : {
+
+  },
+  "/Users/debarunlahiri/XcodeProjects/Lambrk/LambrkUITests/LambrkUITestsLaunchTests.swift" : {
+
+  }
+}

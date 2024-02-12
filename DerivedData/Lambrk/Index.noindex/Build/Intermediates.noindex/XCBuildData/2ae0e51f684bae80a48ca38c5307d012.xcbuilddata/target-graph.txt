@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'Lambrk' in project 'Lambrk' (no dependencies)
+Target 'Lambrk' in project 'Lambrk' (no dependencies)

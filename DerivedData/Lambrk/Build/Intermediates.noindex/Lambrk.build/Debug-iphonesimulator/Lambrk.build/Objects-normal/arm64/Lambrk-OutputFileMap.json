@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/Lambrk-master.dia",
+    "emit-module-dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/Lambrk-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/Lambrk-master-emit-module.dia",
+    "swift-dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/Lambrk-master.swiftdeps"
+  },
+  "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/debarunlahiri/XcodeProjects/Lambrk/Lambrk/ContentView.swift" : {
+    "const-values" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/debarunlahiri/XcodeProjects/Lambrk/Lambrk/LambrkApp.swift" : {
+    "const-values" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/LambrkApp.swiftconstvalues",
+    "dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/LambrkApp.d",
+    "diagnostics" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/LambrkApp.dia",
+    "index-unit-output-path" : "/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/LambrkApp.o",
+    "llvm-bc" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/LambrkApp.bc",
+    "object" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/LambrkApp.o",
+    "swift-dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/LambrkApp.swiftdeps",
+    "swiftmodule" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Build/Intermediates.noindex/Lambrk.build/Debug-iphonesimulator/Lambrk.build/Objects-normal/arm64/LambrkApp~partial.swiftmodule"
+  }
+}

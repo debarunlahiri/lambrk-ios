@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'LambrkUITests' in project 'Lambrk' (no dependencies)
+Target 'LambrkUITests' in project 'Lambrk'
+➜ Explicit dependency on target 'Lambrk' in project 'Lambrk'
+Target 'LambrkUITests' in project 'Lambrk'
+➜ Explicit dependency on target 'Lambrk' in project 'Lambrk'
+Target 'LambrkTests' in project 'Lambrk' (no dependencies)
+Target 'LambrkTests' in project 'Lambrk'
+➜ Explicit dependency on target 'Lambrk' in project 'Lambrk'
+Target 'LambrkTests' in project 'Lambrk'
+➜ Explicit dependency on target 'Lambrk' in project 'Lambrk'
+Target 'Lambrk' in project 'Lambrk' (no dependencies)
+Target 'Lambrk' in project 'Lambrk' (no dependencies)

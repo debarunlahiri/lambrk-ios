@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/Build/Intermediates.noindex/Lambrk.build/Debug-iphoneos/Lambrk.build/Objects-normal/arm64/Lambrk-master.d",
+    "diagnostics" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/Build/Intermediates.noindex/Lambrk.build/Debug-iphoneos/Lambrk.build/Objects-normal/arm64/Lambrk-master.dia",
+    "emit-module-dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/Build/Intermediates.noindex/Lambrk.build/Debug-iphoneos/Lambrk.build/Objects-normal/arm64/Lambrk-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/Build/Intermediates.noindex/Lambrk.build/Debug-iphoneos/Lambrk.build/Objects-normal/arm64/Lambrk-master-emit-module.dia",
+    "swift-dependencies" : "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/Build/Intermediates.noindex/Lambrk.build/Debug-iphoneos/Lambrk.build/Objects-normal/arm64/Lambrk-master.swiftdeps"
+  },
+  "/Users/debarunlahiri/XcodeProjects/Lambrk/DerivedData/Lambrk/Index.noindex/Build/Intermediates.noindex/Lambrk.build/Debug-iphoneos/Lambrk.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/debarunlahiri/XcodeProjects/Lambrk/Lambrk/ContentView.swift" : {
+
+  },
+  "/Users/debarunlahiri/XcodeProjects/Lambrk/Lambrk/LambrkApp.swift" : {
+
+  }
+}
